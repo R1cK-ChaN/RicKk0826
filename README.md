@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Rick Chan.
+- 👋 Hi, I’m @R1cK-ChaN.
 - 👀 I’m interested in **Recommender Systems**.
 - 🌱 I’m currently learning the frontier application of **Machine Learning** and **Deep Learning**.
 - 💞️ I’m looking to collaborate on **Recsys Research** or **Kaggle**.
